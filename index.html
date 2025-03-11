@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archivo Completo</title>
+</head>
+<body>
+    <div id="contenido">Cargando...</div>
+
+    <script>
+        async function cargarPartes() {
+            const partes = ["parte_aa.html", "parte_ab.html", "parte_ac.html"]; // Lista de tus partes
+            let contenido = "";
+
+            for (let parte of partes) {
+                try {
+                    const respuesta = await fetch(parte);
+                    contenido += await respuesta.text();
+                } catch (error) {
+                    console.error("Error cargando", parte, error);
+                }
+            }
+
+            document.getElementById("contenido").innerHTML = contenido;
+        }
+
+        cargarPartes();
+    </script>
+</body>
+</html>
