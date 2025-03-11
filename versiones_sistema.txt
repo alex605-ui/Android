@@ -1,0 +1,403 @@
+total 41792
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 [ -> toybox
+-rwxr-xr-x 1 root shell  127000 2009-01-01 01:00 abb
+-rwxr-xr-x 1 root shell     128 2009-01-01 01:00 abx
+-rwxr-xr-x 1 root shell     128 2009-01-01 01:00 abx2xml
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 acpi -> toybox
+-rwxr-xr-x 1 root shell     207 2009-01-01 01:00 am
+-rwxr-xr-x 1 root shell  829816 2009-01-01 01:00 apexd
+lrwxrwxrwx 1 root shell      13 2025-02-27 19:45 app_process -> app_process64
+-rwxr-xr-x 1 root shell   10504 2009-01-01 01:00 app_process32
+-rwxr-xr-x 1 root shell   16224 2009-01-01 01:00 app_process64
+-rwxr-xr-x 1 root shell      33 2009-01-01 01:00 appops
+-rwxr-xr-x 1 root shell     141 2009-01-01 01:00 appwidget
+-rwxr-xr-x 1 root shell   74680 2009-01-01 01:00 atrace
+-rwxr-xr-x 1 root shell   19944 2009-01-01 01:00 audioserver
+-rwxr-xr-x 1 root shell   11264 2009-01-01 01:00 auditctl
+-rwxr-xr-x 1 root shell  147392 2009-01-01 01:00 awk
+-rwxr-xr-x 1 root shell   28216 2009-01-01 01:00 badblocks
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 base64 -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 basename -> toybox
+-rwxr-xr-x 1 root shell  109624 2009-01-01 01:00 bc
+-rwxr-xr-x 1 root shell   46496 2009-01-01 01:00 bcc
+-rwxr-xr-x 1 root shell   30784 2009-01-01 01:00 blank_screen
+-rwxr-xr-x 1 root shell   19688 2009-01-01 01:00 blkid
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 blockdev -> toybox
+-rwxr-xr-x 1 root shell     126 2009-01-01 01:00 bmgr
+-rwxr-xr-x 1 root shell   20712 2009-01-01 01:00 bootanimation
+-rwxr-xr-x 1 root shell  145144 2009-01-01 01:00 bootstat
+drwxr-x--x 2 root shell     140 2025-02-27 19:45 bootstrap
+-rwxr-xr-x 1 root shell    2840 2009-01-01 01:00 boringssl_self_test32
+-rwxr-xr-x 1 root shell   10808 2009-01-01 01:00 boringssl_self_test64
+-rwxr-xr-x 1 root shell   20856 2009-01-01 01:00 bpfloader
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 brctl -> toybox
+-rwxr-xr-x 1 root shell  200304 2009-01-01 01:00 btfloader
+-rwxr-xr-x 1 root shell     173 2009-01-01 01:00 bu
+-rwxr-xr-x 1 root shell   11000 2009-01-01 01:00 bugreport
+-rwxr-xr-x 1 root shell   10976 2009-01-01 01:00 bugreport_procdump
+-rwxr-xr-x 1 root shell   11288 2009-01-01 01:00 bugreportz
+lrwxrwxrwx 1 root shell       5 2025-02-27 19:45 bunzip2 -> bzip2
+lrwxrwxrwx 1 root shell       5 2025-02-27 19:45 bzcat -> bzip2
+-rwxr-xr-x 1 root shell  121808 2009-01-01 01:00 bzip2
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cal -> toybox
+-rwxr-xr-x 1 root shell   19840 2009-01-01 01:00 cameraserver
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cat -> toybox
+-rwxr-xr-x 1 root shell  213192 2009-01-01 01:00 charger
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chattr -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chcon -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chgrp -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chmod -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chown -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chroot -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 chrt -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cksum -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 clear -> toybox
+-rwxr-xr-x 1 root shell   46304 2009-01-01 01:00 cmd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cmp -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 comm -> toybox
+-rwxr-xr-x 1 root shell     135 2009-01-01 01:00 content
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cp -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cpio -> toybox
+-rwxr-xr-x 1 root shell    2611 2009-01-01 01:00 cppreopts.sh
+-rwxr-xr-x 1 root shell  397784 2009-01-01 01:00 credstore
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 cut -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 date -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 dd -> toybox
+-rwxr-xr-x 1 root shell   15736 2009-01-01 01:00 debuggerd
+lrwxrwxrwx 1 root shell       9 2025-02-27 19:45 defrag.f2fs -> fsck.f2fs
+-rwxr-xr-x 1 root shell      40 2009-01-01 01:00 device_config
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 devmem -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 df -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 diff -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 dirname -> toybox
+-rwxr-xr-x 1 root shell   63440 2009-01-01 01:00 dmabuf_dump
+-rwxr-xr-x 1 root shell   99200 2009-01-01 01:00 dmctl
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 dmesg -> toybox
+-rwxr-xr-x 1 root shell   99520 2009-01-01 01:00 dmesgd
+-rwxr-xr-x 1 root shell  173840 2009-01-01 01:00 dnsmasq
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 dos2unix -> toybox
+-rwxr-xr-x 1 root shell      81 2009-01-01 01:00 dpm
+-rwxr-xr-x 1 root shell   49920 2009-01-01 01:00 drmserver
+-rwxr-xr-x 1 root shell   85616 2009-01-01 01:00 drmserver64
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 du -> toybox
+-rwxr-xr-x 1 root shell   49872 2009-01-01 01:00 dump.erofs
+lrwxrwxrwx 1 root shell       9 2025-02-27 19:45 dump.f2fs -> fsck.f2fs
+-rwxr-xr-x 1 root shell  404704 2009-01-01 01:00 dumpstate
+-rwxr-xr-x 1 root shell   47112 2009-01-01 01:00 dumpsys
+-rwxr-xr-x 1 root shell   15368 2009-01-01 01:00 e2freefrag
+-rwxr-xr-x 1 root shell  263224 2009-01-01 01:00 e2fsck
+-rwxr-xr-x 1 root shell  262296 2009-01-01 01:00 e2fsdroid
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 echo -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 egrep -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 env -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 expand -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 expr -> toybox
+-rwxr-xr-x 1 root shell    5231 2009-01-01 01:00 extra_free_kbytes.sh
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 fallocate -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 false -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 fgrep -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 file -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 find -> toybox
+-rwxr-xr-x 1 root shell   11296 2009-01-01 01:00 flags_health_check
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 flock -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 fmt -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 free -> toybox
+-rwxr-xr-x 1 root shell  119856 2009-01-01 01:00 fsck.erofs
+-rwxr-xr-x 1 root shell   36816 2009-01-01 01:00 fsck.exfat
+-rwxr-xr-x 1 root shell  302632 2009-01-01 01:00 fsck.f2fs
+-rwxr-xr-x 1 root shell   40528 2009-01-01 01:00 fsck_msdos
+-rwxr-xr-x 1 root shell   55528 2009-01-01 01:00 fsverity_init
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 fsync -> toybox
+-rwxr-xr-x 1 root shell   40400 2009-01-01 01:00 gatekeeperd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 getconf -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 getenforce -> toybox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 getevent -> toolbox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 getprop -> toolbox
+-rwxr-xr-x 1 root shell   11096 2009-01-01 01:00 gpuservice
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 grep -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 groups -> toybox
+-rwxr-xr-x 1 root shell   50904 2009-01-01 01:00 gsi_tool
+-rwxr-xr-x 1 root shell  875320 2009-01-01 01:00 gsid
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 gunzip -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 gzip -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 head -> toybox
+-rwxr-xr-x 1 root shell  398552 2009-01-01 01:00 heapprofd
+-rwxr-xr-x 1 root shell     379 2009-01-01 01:00 hid
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 hostname -> toybox
+drwxr-x--x 2 root shell      80 2025-02-27 19:45 hw
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 hwclock -> toybox
+-rwxr-xr-x 1 root shell  106496 2009-01-01 01:00 hwservicemanager
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 i2cdetect -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 i2cdump -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 i2cget -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 i2cset -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 iconv -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 id -> toybox
+-rwxr-xr-x 1 root shell   72848 2009-01-01 01:00 idmap2
+-rwxr-xr-x 1 root shell  144496 2009-01-01 01:00 idmap2d
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 ifconfig -> toybox
+-rwxr-xr-x 1 root shell      48 2009-01-01 01:00 ime
+-rwxr-xr-x 1 root shell   45880 2009-01-01 01:00 incident
+-rwxr-xr-x 1 root shell     220 2009-01-01 01:00 incident-helper-cmd
+-rwxr-xr-x 1 root shell  221792 2009-01-01 01:00 incident_helper
+-rwxr-xr-x 1 root shell  299512 2009-01-01 01:00 incidentd
+-rwxr-xr-x 1 root shell 2918944 2009-01-01 01:00 init
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 inotifyd -> toybox
+-rwxr-xr-x 1 root shell      32 2009-01-01 01:00 input
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 insmod -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 install -> toybox
+-rwxr-xr-x 1 root shell  453680 2009-01-01 01:00 installd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 ionice -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 iorenice -> toybox
+-rwxr-xr-x 1 root shell  426400 2009-01-01 01:00 ip
+-rwxr-xr-x 1 root shell   11032 2009-01-01 01:00 ip-up-vpn
+lrwxrwxrwx 1 root shell      20 2025-02-27 19:45 ip-wrapper-1.0 -> netutils-wrapper-1.0
+lrwxrwxrwx 1 root shell       8 2025-02-27 19:45 ip6tables -> iptables
+lrwxrwxrwx 1 root shell       8 2025-02-27 19:45 ip6tables-restore -> iptables
+lrwxrwxrwx 1 root shell       8 2025-02-27 19:45 ip6tables-save -> iptables
+lrwxrwxrwx 1 root shell      20 2025-02-27 19:45 ip6tables-wrapper-1.0 -> netutils-wrapper-1.0
+-rwxr-xr-x 1 root shell  511152 2009-01-01 01:00 iptables
+lrwxrwxrwx 1 root shell       8 2025-02-27 19:45 iptables-restore -> iptables
+lrwxrwxrwx 1 root shell       8 2025-02-27 19:45 iptables-save -> iptables
+lrwxrwxrwx 1 root shell      20 2025-02-27 19:45 iptables-wrapper-1.0 -> netutils-wrapper-1.0
+-rwxr-xr-x 1 root shell 1813400 2009-01-01 01:00 keystore2
+-rwxr-xr-x 1 root shell  125648 2009-01-01 01:00 keystore_cli_v2
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 kill -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 killall -> toybox
+-rwxr-xr-x 1 root shell  799816 2009-01-01 01:00 ld.mc
+-rwxr-xr-x 1 root shell     374 2009-01-01 01:00 ldd
+-rwxr-xr-x 1 root shell   15496 2009-01-01 01:00 librank
+lrwxrwxrwx 1 root shell      36 2025-02-27 19:45 linker -> /apex/com.android.runtime/bin/linker
+lrwxrwxrwx 1 root shell      38 2025-02-27 19:45 linker64 -> /apex/com.android.runtime/bin/linker64
+lrwxrwxrwx 1 root shell      36 2025-02-27 19:45 linker_asan -> /apex/com.android.runtime/bin/linker
+lrwxrwxrwx 1 root shell      38 2025-02-27 19:45 linker_asan64 -> /apex/com.android.runtime/bin/linker64
+lrwxrwxrwx 1 root shell      38 2025-02-27 19:45 linker_hwasan64 -> /apex/com.android.runtime/bin/linker64
+-rwxr-xr-x 1 root shell   79712 2009-01-01 01:00 llkd
+-rwxr-xr-x 1 root shell   71320 2009-01-01 01:00 lmkd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 ln -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 load_policy -> toybox
+-rwxr-xr-x 1 root shell     211 2009-01-01 01:00 locksettings
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 log -> toybox
+-rwxr-xr-x 1 root shell  161088 2009-01-01 01:00 logcat
+-r-xr-x--- 1 logd logd   876416 2009-01-01 01:00 logd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 logger -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 logname -> toybox
+-rwxr-xr-x 1 root shell   19888 2009-01-01 01:00 logwrapper
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 losetup -> toybox
+-rwxr-xr-x 1 root shell   19872 2009-01-01 01:00 lpdump
+-rwxr-xr-x 1 root shell   35512 2009-01-01 01:00 lpdumpd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 ls -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 lsattr -> toybox
+-rwxr-xr-x 1 root shell  199880 2009-01-01 01:00 lshal
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 lsmod -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 lsof -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 lspci -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 lsusb -> toybox
+-rwxr-xr-x 1 root root   310168 2025-02-27 19:45 magisk
+-rwxr-xr-x 1 root root   340024 2025-02-27 19:45 magiskpolicy
+-rwxr-xr-x 1 root shell  132216 2009-01-01 01:00 make_f2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 md5sum -> toybox
+-rwxr-xr-x 1 root shell  361104 2009-01-01 01:00 mdnsd
+-rwxr-xr-x 1 root shell   15312 2009-01-01 01:00 mediaextractor
+-rwxr-xr-x 1 root shell   15240 2009-01-01 01:00 mediametrics
+-rwxr-xr-x 1 root shell   10784 2009-01-01 01:00 mediaserver32
+-rwxr-xr-x 1 root shell   15272 2009-01-01 01:00 mediaserver64
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 microcom -> toybox
+-rwxr-xr-x 1 root shell    1418 2009-01-01 01:00 migrate_legacy_obb_data
+-rwxr-xr-x 1 root shell   33584 2009-01-01 01:00 mini-keyctl
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mkdir -> toybox
+-rwxr-xr-x 1 root shell   74696 2009-01-01 01:00 mke2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mkfifo -> toybox
+-rwxr-xr-x 1 root shell  518848 2009-01-01 01:00 mkfs.erofs
+-rwxr-xr-x 1 root shell   32544 2009-01-01 01:00 mkfs.exfat
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mkfs.ext2 -> mke2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mkfs.ext3 -> mke2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mkfs.ext4 -> mke2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mknod -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mkswap -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mktemp -> toybox
+-rwxr-xr-x 1 root shell    3925 2009-01-01 01:00 mm_events
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 modinfo -> toybox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 modprobe -> toolbox
+-rwxr-xr-x 1 root shell     268 2009-01-01 01:00 monkey
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 more -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mount -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mountpoint -> toybox
+-rwxr-xr-x 1 root shell   28888 2009-01-01 01:00 mtectrl
+-rwxr-xr-x 1 root shell   32928 2009-01-01 01:00 mtpd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 mv -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 nc -> toybox
+-rwxr-xr-x 1 root shell   71576 2009-01-01 01:00 ndc
+lrwxrwxrwx 1 root shell      20 2025-02-27 19:45 ndc-wrapper-1.0 -> netutils-wrapper-1.0
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 netcat -> toybox
+-rwxr-xr-x 1 root shell  601128 2009-01-01 01:00 netd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 netstat -> toybox
+-rwxr-xr-x 1 root shell   72968 2009-01-01 01:00 netutils-wrapper-1.0
+-rwxr-xr-x 1 root shell   25032 2009-01-01 01:00 newfs_msdos
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 nice -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 nl -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 nohup -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 nproc -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 nsenter -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 od -> toybox
+-rwxr-xr-x 1 root shell  240928 2009-01-01 01:00 odsign
+-rwxr-xr-x 1 root shell    2501 2009-01-01 01:00 oem-iptables-init.sh
+-rwxr-xr-x 1 root shell  233008 2009-01-01 01:00 otapreopt
+-rwxr-xr-x 1 root shell  120360 2009-01-01 01:00 otapreopt_chroot
+-rwxr-xr-x 1 root shell    2400 2009-01-01 01:00 otapreopt_script
+-rwxr-xr-x 1 root shell    1420 2009-01-01 01:00 otapreopt_slot
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 paste -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 patch -> toybox
+-rwxr-xr-x 1 root shell  570784 2009-01-01 01:00 perfetto
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 pgrep -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 pidof -> toybox
+-rwxr-xr-x 1 root shell   41224 2009-01-01 01:00 ping
+-rwxr-xr-x 1 root shell   45928 2009-01-01 01:00 ping6
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 pkill -> toybox
+-rwxr-xr-x 1 root shell      34 2009-01-01 01:00 pm
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 pmap -> toybox
+-rwxr-xr-x 1 root shell  261024 2009-01-01 01:00 pppd
+-rwxr-xr-x 1 root shell    1317 2009-01-01 01:00 preloads_copy.sh
+-rwxr-xr-x 1 root shell   15488 2009-01-01 01:00 preopt2cachename
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 printenv -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 printf -> toybox
+-rwxr-xr-x 1 root shell  108600 2009-01-01 01:00 prng_seeder
+-rwxr-xr-x 1 root shell   20024 2009-01-01 01:00 procrank
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 ps -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 pwd -> toybox
+-rwxr-xr-x 1 root shell  274456 2009-01-01 01:00 racoon
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 readelf -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 readlink -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 realpath -> toybox
+-rwxr-xr-x 1 root shell   11128 2009-01-01 01:00 reboot
+-rwxr-xr-x 1 root shell   19952 2009-01-01 01:00 recovery-persist
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 renice -> toybox
+-rwxr-xr-x 1 root shell     205 2009-01-01 01:00 requestsync
+lrwxrwxrwx 1 root root        8 2025-02-27 19:45 resetprop -> ./magisk
+lrwxrwxrwx 1 root shell       9 2025-02-27 19:45 resize.f2fs -> fsck.f2fs
+-rwxr-xr-x 1 root shell   58104 2009-01-01 01:00 resize2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 restorecon -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 rm -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 rmdir -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 rmmod -> toybox
+-rwxr-xr-x 1 root shell   10944 2009-01-01 01:00 rss_hwm_reset
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 rtcwake -> toybox
+-rwxr-x--- 1 root shell   19608 2009-01-01 01:00 run-as
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 runcon -> toybox
+-rwxr-xr-x 1 root shell   10872 2009-01-01 01:00 schedtest
+-rwxr-xr-x 1 root shell   31080 2009-01-01 01:00 screencap
+-rwxr-xr-x 1 root shell  127608 2009-01-01 01:00 screenrecord
+-rwxr-xr-x 1 root shell   28688 2009-01-01 01:00 sdcard
+-rwxr-xr-x 1 root shell   20216 2009-01-01 01:00 secdiscard
+-rwx------ 1 root root   350304 2009-01-01 01:00 secilc
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sed -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sendevent -> toybox
+-rwxr-xr-x 1 root shell   11104 2009-01-01 01:00 sensorservice
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 seq -> toybox
+-rwxr-xr-x 1 root shell   33328 2009-01-01 01:00 service
+-rwxr-xr-x 1 root shell   80760 2009-01-01 01:00 servicemanager
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 setenforce -> toybox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 setprop -> toolbox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 setsid -> toybox
+-rwxr-xr-x 1 root shell   11304 2009-01-01 01:00 settaskprofile
+-rwxr-xr-x 1 root shell      35 2009-01-01 01:00 settings
+-rwxr-xr-x 1 root shell  206160 2009-01-01 01:00 sgdisk
+-rwxr-xr-x 1 root shell  328432 2009-01-01 01:00 sh
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sha1sum -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sha224sum -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sha256sum -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sha384sum -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sha512sum -> toybox
+-rwxr-xr-x 1 root shell   11504 2009-01-01 01:00 showmap
+-rwxr-xr-x 1 root shell 1774824 2009-01-01 01:00 simpleperf
+-rwxr-x--- 1 root shell   41000 2009-01-01 01:00 simpleperf_app_runner
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sleep -> toybox
+-rwxr-xr-x 1 root shell  523488 2009-01-01 01:00 sload_f2fs
+-rwxr-xr-x 1 root shell     120 2009-01-01 01:00 sm
+-rwxr-xr-x 1 root shell 1459336 2009-01-01 01:00 snapshotctl
+-rwxr-xr-x 1 root shell 1139320 2009-01-01 01:00 snapuserd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sort -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 split -> toybox
+-rwxr-xr-x 1 root shell   75928 2009-01-01 01:00 ss
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 start -> toolbox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 stat -> toybox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 stop -> toolbox
+-rwxr-xr-x 1 root shell  223928 2009-01-01 01:00 storaged
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 strings -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 stty -> toybox
+lrwxrwxrwx 1 root root        8 2025-02-27 19:45 su -> ./magisk
+lrwxrwxrwx 1 root root       14 2025-02-27 19:45 supolicy -> ./magiskpolicy
+-rwxr-xr-x 1 root shell 7751024 2009-01-01 01:00 surfaceflinger
+-rwxr-xr-x 1 root shell    1697 2009-01-01 01:00 svc
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 swapoff -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 swapon -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sync -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 sysctl -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 tac -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 tail -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 tar -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 taskset -> toybox
+-rwxr-xr-x 1 root shell  294288 2009-01-01 01:00 tc
+lrwxrwxrwx 1 root shell      20 2025-02-27 19:45 tc-wrapper-1.0 -> netutils-wrapper-1.0
+-rwxr-xr-x 1 root shell 1020392 2009-01-01 01:00 tcpdump
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 tee -> toybox
+-rwxr-xr-x 1 root shell     189 2009-01-01 01:00 telecom
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 test -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 time -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 timeout -> toybox
+-rwxr-xr-x 1 root shell  132528 2009-01-01 01:00 tombstoned
+-rwxr-xr-x 1 root shell  130968 2009-01-01 01:00 toolbox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 top -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 touch -> toybox
+-rwxr-xr-x 1 root shell  527952 2009-01-01 01:00 toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 tr -> toybox
+-rwxr-xr-x 1 root shell   10816 2009-01-01 01:00 traced
+-rwxr-xr-x 1 root shell  393960 2009-01-01 01:00 traced_perf
+-rwxr-xr-x 1 root shell   10816 2009-01-01 01:00 traced_probes
+-rwxr-xr-x 1 root shell  218112 2009-01-01 01:00 trigger_perfetto
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 true -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 truncate -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 tty -> toybox
+-rwxr-xr-x 1 root shell   62256 2009-01-01 01:00 tune2fs
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uclampset -> toybox
+lrwxrwxrwx 1 root shell       4 2025-02-27 19:45 ueventd -> init
+-rwxr-xr-x 1 root shell    4173 2009-01-01 01:00 uiautomator
+-rwxr-xr-x 1 root shell     394 2009-01-01 01:00 uinput
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 ulimit -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 umount -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uname -> toybox
+-rwxr-x--- 1 root root    36856 2009-01-01 01:00 uncrypt
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uniq -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 unix2dos -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 unlink -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 unshare -> toybox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 unzip -> ziptool
+-rwxr-xr-x 1 root shell 2732936 2009-01-01 01:00 update_engine
+-rwxr-xr-x 1 root shell  144000 2009-01-01 01:00 update_verifier
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uptime -> toybox
+-rwxr-xr-x 1 root shell   19872 2009-01-01 01:00 usbd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 usleep -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uudecode -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uuencode -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 uuidgen -> toybox
+-rwxr-xr-x 1 root shell  104112 2009-01-01 01:00 vdc
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 vi -> toybox
+-rwxr-xr-x 1 root shell  328416 2009-01-01 01:00 viewcompiler
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 vmstat -> toybox
+-rwxr-xr-x 1 root shell  993280 2009-01-01 01:00 vold
+-rwxr-xr-x 1 root shell   41504 2009-01-01 01:00 vold_prepare_subdirs
+-rwxr-xr-x 1 root shell     169 2009-01-01 01:00 vr
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 watch -> toybox
+-rwxr-xr-x 1 root shell   20200 2009-01-01 01:00 watchdogd
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 wc -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 which -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 whoami -> toybox
+-rwxr-xr-x 1 root shell  401616 2009-01-01 01:00 wificond
+-rwxr-xr-x 1 root shell      33 2009-01-01 01:00 wm
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 xargs -> toybox
+-rwxr-xr-x 1 root shell     128 2009-01-01 01:00 xml2abx
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 xxd -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 yes -> toybox
+lrwxrwxrwx 1 root shell       6 2025-02-27 19:45 zcat -> toybox
+lrwxrwxrwx 1 root shell       7 2025-02-27 19:45 zipinfo -> ziptool
+-rwxr-xr-x 1 root shell   33008 2009-01-01 01:00 ziptool
